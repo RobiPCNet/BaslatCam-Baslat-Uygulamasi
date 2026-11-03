@@ -1,0 +1,122 @@
+PASS: Arama uygulamalar görünümüne geçer
+PASS: Tüm uygulamalar geçişinde arama ve bekleyen iş sıfırlanır
+PASS: Sabitlenmiş bölüme geçiş aramayı sıfırlar
+PASS: Eski zamanlayıcı sonradan görünümü geri çeviremez
+PASS: Her yeniden açılış sabitlenmiş kutucuklarla başlar
+PASS: Otomatik başlatma kullanıcı EXE'sini tırnaklı ve otomatik açılış seçeneğiyle kaydeder (sahte kayıt)
+PASS: Kapatma başlangıç kaydının kaldırılmasını ister (sahte kayıt)
+PASS: Görünüm sekmesinde başlangıç aç/kapat seçeneği var
+PASS: İptal başlangıç tercihini ve kaydı değiştirmez
+PASS: Kullanıcı ikonu uygulama önbelleğinden önce gelir
+PASS: Bulunamayan EXE genel yanlış simgeyle kalıcı önbelleğe alınmaz
+PASS: Eski sabitlenmiş nesne için kesin uygulama adı eşleşmesi ikon hedefini bulur
+PASS: İkon testi için kutucuk önbelleği oluşturulur
+PASS: İkon tamamlanınca eski kutucuk görseli geçersizleşir
+PASS: Kaydet başlangıç seçeneğini uygular (sahte kayıt)
+PASS: Başlangıç kaydı başarısızsa kaydedilmiş tercih geri alınır
+PASS: İsimsiz grup geçerli kabul edilir; adı zorla değiştirilmez
+PASS: Ayarlar isimsiz grup varken de diske kaydedilir
+PASS: Yinelenen grup kimlikleri hâlâ reddedilir
+PASS: Bozuk kutucuk rengi hangi kutucuğa ait olduğunu bildirir
+PASS: Gerçek yüzey rengi hatası açıkça belirtilir
+PASS: Değiştirilmeyen kayıp arka plan yolu korunur; diğer ayarlar kaydedilir
+PASS: Yeni seçilen bozuk resim renk hatası diye gösterilmez
+PASS: Geniş panel bütün yüzeyi ölçeklemez
+PASS: Dar panelde metin üstünde ölçekleme yok
+PASS: Daraltmada yazı ve gösterge boyutları korunur
+PASS: Daralma boşluklardan karşılanır; pano tekrar kurulmaz
+PASS: Kartın tüm metnini etkileyen gölge filtresi kaldırıldı
+PASS: Panel gövdesi gerçek genişliğe sığar
+PASS: Yükseklik yetmezse metin küçültmek yerine kaydırma kullanılır
+PASS: İlk sayaç örneği temel oluşturur
+PASS: Mbps gerçek bayt farkı ve monoton süreden hesaplanır
+PASS: Trafik yokken bekleniyor değil 0 Mbps ölçülür
+PASS: Gerçek sayaç geri sarımında negatif hız üretilmez
+PASS: Gerçek adaptör değişiminde yeniden temel alınır
+PASS: Ölçüm geçmişi son 40 örnekle sınırlıdır
+PASS: Kapanan izleyici artık örnek almaz
+PASS: Geçici sayaç hatası geçmişi ve temeli silmez
+PASS: Hata sonrası ölçüm bekleme döngüsüne dönmeden devam eder
+PASS: Başlat gizliyken bağımsız sayaç örneklemesi sürer
+PASS: Başlat yeniden açılınca sayaç sıfırlanmaz
+PASS: Sağ panel kapalıyken ölçüm sürer
+PASS: Panel yeniden kurulurken izleyici korunur
+PASS: Çok boyutlu ICO'nun 16 px yerine 256 px karesi seçilir
+PASS: İkon isim bandı korunarak kutucuk alanını doldurur
+PASS: Orta kutucuk ikonu eski 42 px boyuttan daha büyük çizilir
+PASS: Disk satırının tamamı klavye ile de erişilebilir düğmedir
+PASS: Dosya Gezgini tam Windows yolundan seçilir
+PASS: C diski seçilince yalnız C kökü açılır, Başlat gizlenir (sahte açıcı)
+PASS: Dosya Gezgini tam Windows yolundan seçilir
+PASS: Başka disk kendi köküyle açılır (sahte açıcı)
+PASS: Hazır olmayan çıkarılabilir disk açılmaz
+PASS: Sürücü yolu doğrulanır; ek Explorer komutu kabul edilmez
+PASS: Tıklanabilir disk satırları dar panel yerleşimine uyar
+PASS: Açılışta sabitlenmiş görünüm korunurken arama kutusu yazıya hazırdır
+PASS: Kutuya tıklamadan ilk Türkçe karakter aramaya eksiksiz aktarılır
+PASS: İlk karakter arama sonuçlarını açar
+PASS: Yön/kontrol tuşları ve tek boşluk arama başlatmaz
+PASS: Ctrl/Alt kısayolları korunur, AltGr metni desteklenir
+PASS: Başka metin düzenleyicisindeki yazı aramaya alınmaz
+PASS: Arama kutusundaki normal giriş ikinci kez eklenmez
+PASS: Arama listesi ikon için yeni shell işi başlatmaz
+PASS: Önbellekteki gerçek ikon aramada kullanılır
+PASS: Hakkında sekmesinde Mustafa ARSLAN ve doğru sürüm bulunur
+PASS: Arama kutusunun yanındaki Başlat başlığı kaldırıldı
+PASS: Bulunan diskler birer kez gösterilir
+PASS: Ölçüm yenilenirken disk düğmesi ve klavye odağı korunur
+PASS: Hazır olmayan disk yine açılamaz
+PASS: İki sütun bar seçimi diskleri aynı satırda yan yana yerleştirir
+PASS: Görünüm gerçek sürücü verisine uygulanır: bar
+PASS: Görünüm gerçek sürücü verisine uygulanır: ring
+PASS: Görünüm gerçek sürücü verisine uygulanır: wave
+PASS: Görünüm gerçek sürücü verisine uygulanır: marble
+PASS: İstenmeyen disk görünümden çıkarılır
+PASS: Gizlenen disk yeniden eklenebilir
+PASS: Kullanıcı öğe boyutunu değiştirir; disk adı ölçeklenmez
+PASS: Genel renk ve diske özel renk ayrı uygulanır
+PASS: Dalgalı görsel gerçek yüzdeyi ve tam doluluğu gösterir
+PASS: Yeni görsel tıklanınca doğru disk kökü açılır (sahte açıcı)
+PASS: Disk ayarlarında İptal canlı önizlemeyi geri alır
+PASS: Görünüm ve disk özel ayarları kaydedilir
+PASS: Seçilen disk ikonu ve dokusu kendi veri klasörüne kopyalanır
+PASS: Disk görselleri sürüm geçişinde aktarılır; eski kaynak korunur
+PASS: Hakkında bölümüne kodlama desteği bilgisi eklendi
+PASS: Düğmeyle açılan panel de seçilen kapanış süresini kullanır
+PASS: Elle açılan panel fare dışarıdayken zamanlayıcıyla kapanır
+PASS: Fare geri döndüğünde bekleyen kapanış iptal edilir
+PASS: Menü/ayar engeli varken kapanış isteği kaybolmaz
+PASS: Engel kalkınca seçilen süreyle otomatik kapanış yeniden başlar
+PASS: Başlat gizlenip yeniden açılınca da sol panelin kapanışı yeniden kurulur
+PASS: Kapanma süresi ayardan 90 adım = 1,5 saniye uygulanır
+PASS: Raptiye ve dişli aynı üst sol kontrol satırındadır
+PASS: Kontroller kartlardan ayrı alandadır; başlığa taşmaz
+PASS: Dişli doğrudan Yan panel sekmesini açar
+PASS: Windows açılışı küçültülmüş simge yerine normal tam ekran boyutuyla hazırlanır
+PASS: Otomatik başlangıç sabitlenmiş kutucukları tam ekran gösterir
+PASS: Yeni başlangıç kaydı açık başlangıç seçeneğini kullanır
+PASS: Otomatik açılıştan sonra gizleme uygulamayı sonlandırmaz
+PASS: Gizlenen otomatik başlangıç görünümü tam ekran yeniden açılır
+PASS: Ağ detayları açıldığında gizleme düğmesi görünür kalır
+PASS: Detay zemini koyudur ve gösterge sönükleşir
+PASS: İkinci tıklama detayları gizler ve grafiği geri getirir
+PASS: Bağdaştırıcı düğmesi Windows bağlantıları eylemine gider (sahte açıcı)
+PASS: Ağ boyutu değişir; izleyici yeniden kurulmaz
+PASS: Temalı ağ ayrıntıları seçilen adaptörün verisini gösterir
+PASS: Güç onayı varsayılan kapalıdır
+PASS: Dört güç işlemi onaysız doğrudan yürütücüye ulaşır (sahte yürütücü)
+PASS: Onay açıkken İptal işlemi engeller
+PASS: Onay açıkken yalnız kabul edilen işlem yürütülür (sahte)
+PASS: Sekiz simgeli ayar sekmesi mevcut seçenekleri korur
+PASS: Ayarlar geniş yerleşim kullanır
+PASS: Ayarlar İptal güç onayını ve ağ boyutunu geri alır
+PASS: Güç onayı kutusu taslağı günceller
+PASS: Güç onayı ve ağ boyutu Kaydet ile kalıcı saklanır (sahte başlangıç kaydı)
+PASS: Açık panel oku ekranın dikey ortasındadır
+PASS: Sabitlenen panel çakışma zamanlayıcısını başlatmaz
+PASS: Sabitlenen panel fare ayrılma zamanlayıcısını başlatmaz
+PASS: Sabitleme kalkınca çakışma zamanlayıcısı çalışır
+PASS: Önceden kurulan kapanış da raptiye etkinse paneli kapatmaz
+PASS: Sabit panel elle kapanır; kapalı ok aynı orta hizada kalır
+PASS: Ok paneli sabitliği koruyarak yeniden açar
+PASS: Sabitlenmemiş panel çakışmada otomatik kapanmaya devam eder
