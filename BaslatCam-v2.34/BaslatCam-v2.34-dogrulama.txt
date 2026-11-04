@@ -1,0 +1,219 @@
+PASS: Arama uygulamalar görünümüne geçer
+PASS: Tüm uygulamalar geçişinde arama ve bekleyen iş sıfırlanır
+PASS: Sabitlenmiş bölüme geçiş aramayı sıfırlar
+PASS: Eski zamanlayıcı sonradan görünümü geri çeviremez
+PASS: Her yeniden açılış sabitlenmiş kutucuklarla başlar
+PASS: Otomatik başlatma kullanıcı EXE'sini tırnaklı ve otomatik açılış seçeneğiyle kaydeder (sahte kayıt)
+PASS: Kapatma başlangıç kaydının kaldırılmasını ister (sahte kayıt)
+PASS: Görünüm sekmesinde başlangıç aç/kapat seçeneği var
+PASS: İptal başlangıç tercihini ve kaydı değiştirmez
+PASS: Kullanıcı ikonu uygulama önbelleğinden önce gelir
+PASS: Bulunamayan EXE genel yanlış simgeyle kalıcı önbelleğe alınmaz
+PASS: Eski sabitlenmiş nesne için kesin uygulama adı eşleşmesi ikon hedefini bulur
+PASS: İkon testi için kutucuk önbelleği oluşturulur
+PASS: İkon tamamlanınca eski kutucuk görseli geçersizleşir
+PASS: Kaydet başlangıç seçeneğini uygular (sahte kayıt)
+PASS: Başlangıç kaydı başarısızsa kaydedilmiş tercih geri alınır
+PASS: İsimsiz grup geçerli kabul edilir; adı zorla değiştirilmez
+PASS: Ayarlar isimsiz grup varken de diske kaydedilir
+PASS: Yinelenen grup kimlikleri hâlâ reddedilir
+PASS: Bozuk kutucuk rengi hangi kutucuğa ait olduğunu bildirir
+PASS: Gerçek yüzey rengi hatası açıkça belirtilir
+PASS: Değiştirilmeyen kayıp arka plan yolu korunur; diğer ayarlar kaydedilir
+PASS: Yeni seçilen bozuk resim renk hatası diye gösterilmez
+PASS: Geniş panel bütün yüzeyi ölçeklemez
+PASS: Dar panelde metin üstünde ölçekleme yok
+PASS: Daraltmada yazı ve gösterge boyutları korunur
+PASS: Daralma boşluklardan karşılanır; pano tekrar kurulmaz
+PASS: Kartın tüm metnini etkileyen gölge filtresi kaldırıldı
+PASS: Panel gövdesi gerçek genişliğe sığar
+PASS: Yükseklik yetmezse metin küçültmek yerine kaydırma kullanılır
+PASS: İlk sayaç örneği temel oluşturur
+PASS: Mbps gerçek bayt farkı ve monoton süreden hesaplanır
+PASS: Trafik yokken bekleniyor değil 0 Mbps ölçülür
+PASS: Gerçek sayaç geri sarımında negatif hız üretilmez
+PASS: Gerçek adaptör değişiminde yeniden temel alınır
+PASS: Ölçüm geçmişi son 40 örnekle sınırlıdır
+PASS: Kapanan izleyici artık örnek almaz
+PASS: Geçici sayaç hatası geçmişi ve temeli silmez
+PASS: Hata sonrası ölçüm bekleme döngüsüne dönmeden devam eder
+PASS: Başlat gizliyken bağımsız sayaç örneklemesi sürer
+PASS: Başlat yeniden açılınca sayaç sıfırlanmaz
+PASS: Sağ panel kapalıyken ölçüm sürer
+PASS: Panel yeniden kurulurken izleyici korunur
+PASS: Çok boyutlu ICO'nun 16 px yerine 256 px karesi seçilir
+PASS: İkon isim bandı korunarak kutucuk alanını doldurur
+PASS: Orta kutucuk ikonu eski 42 px boyuttan daha büyük çizilir
+PASS: Disk satırının tamamı klavye ile de erişilebilir düğmedir
+PASS: Dosya Gezgini tam Windows yolundan seçilir
+PASS: C diski seçilince yalnız C kökü açılır, Başlat gizlenir (sahte açıcı)
+PASS: Dosya Gezgini tam Windows yolundan seçilir
+PASS: Başka disk kendi köküyle açılır (sahte açıcı)
+PASS: Hazır olmayan çıkarılabilir disk açılmaz
+PASS: Sürücü yolu doğrulanır; ek Explorer komutu kabul edilmez
+PASS: Tıklanabilir disk satırları dar panel yerleşimine uyar
+PASS: Açılışta sabitlenmiş görünüm korunurken arama kutusu yazıya hazırdır
+PASS: Kutuya tıklamadan ilk Türkçe karakter aramaya eksiksiz aktarılır
+PASS: İlk karakter arama sonuçlarını açar
+PASS: Yön/kontrol tuşları ve tek boşluk arama başlatmaz
+PASS: Ctrl/Alt kısayolları korunur, AltGr metni desteklenir
+PASS: Başka metin düzenleyicisindeki yazı aramaya alınmaz
+PASS: Arama kutusundaki normal giriş ikinci kez eklenmez
+PASS: Arama listesi ikon için yeni shell işi başlatmaz
+PASS: Önbellekteki gerçek ikon aramada kullanılır
+PASS: Hakkında sekmesinde Mustafa ARSLAN ve doğru sürüm bulunur
+PASS: Arama kutusunun yanındaki Başlat başlığı kaldırıldı
+PASS: Bulunan diskler birer kez gösterilir
+PASS: Ölçüm yenilenirken disk düğmesi ve klavye odağı korunur
+PASS: Hazır olmayan disk yine açılamaz
+PASS: İki sütun bar seçimi diskleri aynı satırda yan yana yerleştirir
+PASS: Görünüm gerçek sürücü verisine uygulanır: bar
+PASS: Görünüm gerçek sürücü verisine uygulanır: ring
+PASS: Görünüm gerçek sürücü verisine uygulanır: wave
+PASS: Görünüm gerçek sürücü verisine uygulanır: marble
+PASS: İstenmeyen disk görünümden çıkarılır
+PASS: Gizlenen disk yeniden eklenebilir
+PASS: Kullanıcı öğe boyutunu değiştirir; disk adı ölçeklenmez
+PASS: Genel renk ve diske özel renk ayrı uygulanır
+PASS: Dalgalı görsel gerçek yüzdeyi ve tam doluluğu gösterir
+PASS: Yeni görsel tıklanınca doğru disk kökü açılır (sahte açıcı)
+PASS: Disk ayarlarında İptal canlı önizlemeyi geri alır
+PASS: Görünüm ve disk özel ayarları kaydedilir
+PASS: Seçilen disk ikonu ve dokusu kendi veri klasörüne kopyalanır
+PASS: Disk görselleri sürüm geçişinde aktarılır; eski kaynak korunur
+PASS: Hakkında bölümüne kodlama desteği bilgisi eklendi
+PASS: Düğmeyle açılan panel de seçilen kapanış süresini kullanır
+PASS: Elle açılan panel fare dışarıdayken zamanlayıcıyla kapanır
+PASS: Fare geri döndüğünde bekleyen kapanış iptal edilir
+PASS: Menü/ayar engeli varken kapanış isteği kaybolmaz
+PASS: Engel kalkınca seçilen süreyle otomatik kapanış yeniden başlar
+PASS: Başlat gizlenip yeniden açılınca da sol panelin kapanışı yeniden kurulur
+PASS: Kapanma süresi ayardan 90 adım = 1,5 saniye uygulanır
+PASS: Raptiye ve dişli aynı üst sol kontrol satırındadır
+PASS: Kontroller kartlardan ayrı alandadır; başlığa taşmaz
+PASS: Dişli doğrudan Yan panel sekmesini açar
+PASS: Windows açılışı küçültülmüş simge yerine normal tam ekran boyutuyla hazırlanır
+PASS: Otomatik başlangıç sabitlenmiş kutucukları tam ekran gösterir
+PASS: Yeni başlangıç kaydı açık başlangıç seçeneğini kullanır
+PASS: Otomatik açılıştan sonra gizleme uygulamayı sonlandırmaz
+PASS: Gizlenen otomatik başlangıç görünümü tam ekran yeniden açılır
+PASS: Ağ detayları açıldığında gizleme düğmesi görünür kalır
+PASS: Detay zemini koyudur ve gösterge sönükleşir
+PASS: İkinci tıklama detayları gizler ve grafiği geri getirir
+PASS: Bağdaştırıcı düğmesi Windows bağlantıları eylemine gider (sahte açıcı)
+PASS: Ağ boyutu değişir; izleyici yeniden kurulmaz
+PASS: Temalı ağ ayrıntıları seçilen adaptörün verisini gösterir
+PASS: Güç onayı varsayılan kapalıdır
+PASS: Dört güç işlemi onaysız doğrudan yürütücüye ulaşır (sahte yürütücü)
+PASS: Onay açıkken İptal işlemi engeller
+PASS: Onay açıkken yalnız kabul edilen işlem yürütülür (sahte)
+PASS: Sekiz simgeli ayar sekmesi mevcut seçenekleri korur
+PASS: Ayarlar geniş yerleşim kullanır
+PASS: Ayarlar İptal güç onayını ve ağ boyutunu geri alır
+PASS: Güç onayı kutusu taslağı günceller
+PASS: Güç onayı ve ağ boyutu Kaydet ile kalıcı saklanır (sahte başlangıç kaydı)
+PASS: Açık panel oku ekranın dikey ortasındadır
+PASS: Sabitlenen panel çakışma zamanlayıcısını başlatmaz
+PASS: Sabitlenen panel fare ayrılma zamanlayıcısını başlatmaz
+PASS: Sabitleme kalkınca çakışma zamanlayıcısı çalışır
+PASS: Önceden kurulan kapanış da raptiye etkinse paneli kapatmaz
+PASS: Sabit panel elle kapanır; kapalı ok aynı orta hizada kalır
+PASS: Ok paneli sabitliği koruyarak yeniden açar
+PASS: Sabitlenmemiş panel çakışmada otomatik kapanmaya devam eder
+PASS: Açık gündüz güneşli manzarayı seçer
+PASS: Açık gece ay/yıldız manzarasını seçer
+PASS: Bulut/sis/donan yağış/kar/yağmur/fırtına kodları doğru sınıflanır
+PASS: Aynı hava sınıfları gece karşılıklarına gider
+PASS: 30 km/sa ve üstü yağışsız havada rüzgârlı manzara seçilir
+PASS: Karlı hava rüzgârın önüne geçer
+PASS: Bilinmeyen hava kodu sahte manzaraya çevrilmez
+PASS: 30 dakikadan eski veri manzara için kullanılmaz
+PASS: Rüzgâr ve gündüz/gece gerçek servis alanlarından okunur
+PASS: Eski rüzgârsız veri desteklenir; rüzgâr uydurulmaz
+PASS: 16 gündüz/gece manzarası EXE içine gömülüdür
+PASS: Gömülü manzaraların tamamı açılır ve iş parçacıkları arasında güvenle taşınır
+PASS: Şehir seçilmeden otomatik manzara gösterilmez
+PASS: Veri henüz gelmediyse sahne gösterilmeden beklenir
+PASS: Görsel önbelleği en çok dört görsel tutar
+PASS: Güncel yağmur verisi uygun manzarayı gösterir
+PASS: Hava katmanı kutucukların arkasındadır ve tıklamaları engellemez
+PASS: Seçilen süre sonunda normal arka plana dönülür ve kaynak bırakılır
+PASS: Saniyelik hava yenilemesi manzarayı sürekli yeniden başlatmaz
+PASS: Sürekli göster seçeneğinde otomatik gizleme yapılmaz
+PASS: Sürekli mod yeni hava durumuna görünüm açıkken geçer
+PASS: Sürekli modda bilinmeyen hava eski manzarayı bırakmaz
+PASS: Sürekli modda veri eskirse manzara gizlenir
+PASS: Başlat gizlenince hava katmanı ve bekleyen geçiş temizlenir
+PASS: Başlat yeniden açılınca güncel gece manzarası yeniden hazırlanır
+PASS: İptal edilen yüklemenin geç sonucu ekrana geri dönmez
+PASS: Hava arka planı kapatılabilir
+PASS: Ayarlar İptal süre ve belirginliği geri alır
+PASS: Süre ve belirginlik Kaydet ile kalıcı saklanır (sahte başlangıç kaydı)
+PASS: Eski düzen üç katmana tek manzara varsayılanıyla geçer
+PASS: 16 manzara, 14 PNG ve tipi görseli EXE içine gömülüdür
+PASS: PNG alfa kanalı yüklemede korunur
+PASS: Yalnız ana manzara seçimi tek katman gösterir
+PASS: Yalnız PNG seçimi mevcut arka planı karartmaz
+PASS: Otomatik PNG yağmur için damlalı cam seçer
+PASS: Üç bağımsız katman arkadan öne sırayla gösterilir
+PASS: Katmanların belirginliği birbirinden bağımsızdır
+PASS: Sabit manzara hava verisi olmadan da seçilebilir
+PASS: Bütün katmanlar kapalıysa boş görsel katmanı gösterilmez
+PASS: Hava Durumu Görünüm yanındadır; ayrı Düzen sekmesi kaldırılmıştır
+PASS: Düzen ve yedekleme araçları Kullanımlar altında korunur
+PASS: Her katmanda otomatik seçimler ve 31 paket görseli bulunur
+PASS: İptal konum ve katman seçimlerini birlikte geri alır
+PASS: Hava ayarlarına doğrudan ilgili sekme ile erişilir
+PASS: Üç katmanın seçimleri Kaydet ile kalıcı saklanır
+PASS: Yeni konum kaydedilir ve eski şehrin hava verisi temizlenir
+PASS: Gizleme bütün PNG ve manzara kaynaklarını bırakır
+PASS: 31 hava görselinin numaraları benzersiz ve sıralıdır
+PASS: Havaları dene penceresi bütün manzara ve PNG'leri listeler
+PASS: Numaralı galerinin seçilen görseli açılır
+PASS: Seçilen görsel Başlat üzerinde tek başına denenebilir
+PASS: Galeri kapanınca geçici görsel temizlenir; katman tercihleri değişmez
+PASS: Panel opaklığı sıfırken kart zeminleri saydamdır
+PASS: Panel zemin ayarı yazıları ve ana yüzey opaklığını etkilemez
+PASS: İptal panel opaklığını geri alır
+PASS: Panel opaklığı Kaydet ile kalıcı saklanır
+PASS: İkon ve Resim seçimi doğrudan Resmi al düğmesi içerir
+PASS: Alınan kare kendi resminin yanına eklenir (sahte yakalayıcı)
+PASS: İptal alınan taslak kareyi temizler ve otomatik yakalamayı açmaz
+PASS: Kaydet alınan kareyi, kullanıcı resmini ve otomatik tercihini korur
+PASS: Kendi resmi, elle alınan kare ve otomatik kare birlikte listelenir
+PASS: Otomatik kapatılınca kendi ve elle alınan resimler kalır
+PASS: Başarısız yakalama açıklanır ve işlem kilidi bırakılır
+PASS: Barındırılan Store penceresi alt sürecin tam uygulama kimliğiyle eşleşir
+PASS: Yakalama doğrulaması Store kimliğini EXE yolu istemeden kabul eder
+PASS: Pencere sahibi PID değişirse Store yakalama reddedilir
+PASS: Aynı paketteki farklı uygulama kimliği karıştırılmaz
+PASS: Üst pencerenin farklı uygulama kimliği göz ardı edilmez
+PASS: Pencere etiketi tek başına doğru süreç kanıtı sayılmaz
+PASS: Doğrudan çalışan paketli masaüstü penceresi tanınır
+PASS: Geçersiz Store kimliği reddedilir
+PASS: Store kutucuğu ad benzetmesi yerine kendi kimliğini kullanır
+PASS: Yardımcı yakalama işine tam Store kimliği ve sahibi aktarılır (sahte iş)
+PASS: Resmi al Store çözümleyicisiyle kareyi saklar (sahte iş)
+PASS: Yardımcı yakalama işine tam Store kimliği ve sahibi aktarılır (sahte iş)
+PASS: Otomatik yakalama da aynı Store çözümleyicisini kullanır (sahte iş)
+PASS: Ana pencere ortak kaydırma çubuğu stilini taşır
+PASS: Açılır pencerede yatay ve dikey çubuk ortak stili kullanır
+PASS: Her iki yönde ince sekiz birimlik çubuk görünür
+PASS: Koyu çubukta sayfa kaydırma komutu çalışır
+PASS: İkon/resim penceresindeki görünür çubuk da ortak temadadır
+PASS: Düğme vurgusu yirmi geçişte düğme veya üst yerleşimin ölçüsünü değiştirmez
+PASS: Bilgi etiketi renk yerine okunmaz; vurgu ayrı ve tıklamayı engellemeyen katmandadır
+PASS: Ortak düğme üzerine gelmede yazı veya çerçeve kalınlığı değiştirilmez
+PASS: Kaydırma çubuğunun tüm rayı fare üzerindeyken temalı renkle belirginleşir
+PASS: Tam sığdır bütün resmi isim bandının üzerinde gösterir
+PASS: Doldur modunda sol ve sağ konum farklı kırpma alanları seçer
+PASS: Üst ve alt hizalama uzun resimde doğru uygulanır
+PASS: İptal resim yerleşimi taslağını geri alır
+PASS: Kaydet resmin sığdırma ve hizalama tercihini saklar
+PASS: Resim nesnesi kutucuk ölçüsünü aşmaz; hizalama gizli genişlikte kaybolmaz
+PASS: Kutucuk kaydedilen resim yerleşimini kullanır
+PASS: Gölge genişliği yalnız ikona uygulanır
+PASS: İkon gölgesi isim yazısını bulanıklaştırmaz
+PASS: Gölge sıfırla kapanır ve kutucuk ölçüsünü değiştirmez
+PASS: İptal ikon gölge genişliğini geri alır
+PASS: İkon gölge genişliği Kaydet ile kalıcı saklanır
