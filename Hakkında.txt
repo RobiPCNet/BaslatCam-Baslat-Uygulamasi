@@ -1,0 +1,11 @@
+Program tamamen Türkcedir. Kaynağı açıktır.
+Herhangi bir Kodlama kullanmadım sadece kodlama dillerine Orta düzey hakimim.
+Bu nedenle isteklerimin bölgelerini şu alan düzeltilecek bu alanda Class için şu özellik olmalı gibi detaylandırdım.
+
+Windows 11 in yarım küçük ekran görüntüsünü beğenmediğim için bu girişimi kendim düzenledim.
+
+Ayarları deneyerek bulabilirsiniz.
+Çıkış için yanda başlat-cam ayarlarına tıklayıp alta yer alan uygulamadan çıkı işaretleyin.
+uygulama windows başlangıcında başlarsa başlangıçtan kaldırmak içinde ayarları kullanabilirsiniz.
+herhangi bir internet bağlantısı olmadan da kullanmanız için yapılmıştır.
+Halen geliştiriyorum 
