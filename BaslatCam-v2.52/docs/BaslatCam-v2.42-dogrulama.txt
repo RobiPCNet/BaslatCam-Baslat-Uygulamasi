@@ -1,0 +1,9 @@
+v2.42 odaklı doğrulama
+PASS GPU süreçleri aynı motor için toplanır, farklı motorların en yoğunu alınır.
+PASS Gerçek Windows GPU sayacı okundu. Son test örneği yüzde6,6.
+PASS Panel kartını üst sıraya taşıma, İptal ile geri getirme ve kaydetme.
+PASS WMV video açma, temanın arkasında VideoDrawing, süre ve konuma atlama.
+PASS Tam ekranda2,5 saniye sonra kontrollerin gizlenmesi, geri getirme ve pencereye dönüş.
+PASS Karışık önceki parça geçmişi, tek parça tekrarı, liste tekrarı ve liste sonunda durma.
+PASS Sessiz WAV ile çalma, duraklatma ve devam etme regresyonu.
+PASS Liste kaydı, eksik dosya, isteğe bağlı görüntü, Explorer seçim komutu ve gizli başlangıç regresyonu.

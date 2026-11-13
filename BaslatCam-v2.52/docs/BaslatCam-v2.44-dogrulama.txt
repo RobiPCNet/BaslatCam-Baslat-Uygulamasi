@@ -1,0 +1,10 @@
+v2.44 doğrulama
+PASS Gerçek MP3 dosyası PCM olarak çözüldü ve sıfırdan farklı dalga üretildi.
+PASS MP3 oynatma, liste kaydı, sanatçı/başlık etiketleri.
+PASS Yüzen medya Owner=null ve görev çubuğunda bağımsız pencere.
+PASS Başlat gizlenince ve yeniden açılınca aynı medya penceresi açık kaldı.
+PASS Dikey ses popup, mute ve ses çubuğundan açma.
+PASS Tam ekranda2,5 saniyede kontroller gizlendi.
+PASS Medya odaktayken Esc yalnız görüntüyü kapattı, oynatma açık kaldı.
+PASS WAV oynatma/duraklatma/devam ve başlangıç regresyonu.
+PASS WMV görüntü çizimi, seek, shuffle/repeat ve GPU/panel sıra regresyonu.
